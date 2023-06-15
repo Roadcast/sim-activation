@@ -1,0 +1,8 @@
+{
+  "name": "Sim Activation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f43e7dca"
+}
